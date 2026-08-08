@@ -69,7 +69,7 @@
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
     <string name="sound_effects">Sound Effects</string>
     <string name="sound_volume">Sound Volume</string>
-    <string name="show_grid">اظهار الشبكة</string>
+    <string name="show_grid">إظهار الشبكة</string>
     <string name="show_grid_coordinates">إظهار إحداثيات الشبكة</string>
     <string name="show_coordinate_tint">تلوين الإحداثيات</string>
     <string name="custom_background_image">خلفية مخصصة</string>
@@ -99,8 +99,8 @@
     <!-- Game/room creation menu-->
     <string name="game_mode">نوع اللعبة</string>
     <string name="select_mode">اختر الطور</string>
-    <string name="minimum_players">الحد الادنى من اللاعبين</string>
-    <string name="maximum_players">الحد الاقصى من اللاعبين</string>
+    <string name="minimum_players">الحد الأدنى من اللاعبين</string>
+    <string name="maximum_players">الحد الأقصى من اللاعبين</string>
     <string name="decrease_time">تقليل الوقت</string>
     <string name="increase_time">زيادة الوقت</string>
     <string name="grace_period">فترة سماح</string>
@@ -122,7 +122,7 @@
     <string name="no_holes">بدون ثقوب</string>
     <string name="circle_map">خريطة الدائرة</string>
     <string name="relax">استرخاء</string>
-    <string name="warning_no_holes">لن يتم حفظ اي احصائيات</string>
+    <string name="warning_no_holes">لن يتم حفظ أي احصائيات</string>
     <string name="gold_holes">ثقوب ذهبية</string>
     <string name="teleport_holes">Teleport Holes</string>
     <string name="starting_difficulty">مستوى الصعوبة الابتدائي</string>
@@ -149,22 +149,22 @@
     <string name="clan">العشيرة</string>
     <string name="friends">الأصدقاء</string>
     <string name="send_friend_request">إرسال طلب صداقة</string>
-    <string name="friend_request_accepted">انتم الان اصدقاء!</string>
+    <string name="friend_request_accepted">أنتم الآن أصدقاء!</string>
     <string name="send_friend_request_by_id_or_name">ارسل طلب صداقة باستخدام معرف أو الاسم</string>
     <string name="cancel_friend_request">إلغاء طلب الصداقة</string>
-    <string name="remove_friend">ازالة صديق</string>
+    <string name="remove_friend">إزالة صديق</string>
     <string name="friend_request_sent">تم إرسال طلب الصداقة</string>
     <string name="friend_requests_received">طلبات الصداقة المستلمة</string>
     <string name="friend_requests_sent">طلبات الصداقة المرسلة</string>
     <string name="no_friends">ليس لديك أصدقاء بعد…</string>
-    <string name="remove_friend_title">ازالة صديق</string>
+    <string name="remove_friend_title">إزالة صديق</string>
     <string name="remove_friend_message">هل أنت متأكد أنك تريد إزالة "%1$s" (الهوية: %2$d) من قائمة أصدقائك؟</string>
-    <string name="cancel_request_title">الغاء الطلب</string>
+    <string name="cancel_request_title">إلغاء الطلب</string>
     <string name="cancel_request_message">هل أنت متأكد أنك تريد إلغاء طلب الصداقة المرسل إلى "%1$s" (الهوية: %2$d)؟</string>
     <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
     <string name="friend_request_error_already_sent">تم ارسال طلب الصداقة بالفعل</string>
-    <string name="friend_request_error_already_friends">اصدقاء بالفعل</string>
-    <string name="friend_request_error_list_full">قائمة الاصدقاء ممتلئة</string>
+    <string name="friend_request_error_already_friends">أصدقاء بالفعل</string>
+    <string name="friend_request_error_list_full">قائمة الأصدقاء ممتلئة</string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">تنافسي</string>
@@ -175,7 +175,7 @@
     <string name="find_opponent">العثور على خصم</string>
     <string name="leave_matchmaking">مغادرة البحث</string>
     <string name="searching_ellipsis">جارٍ البحث...</string>
-    <string name="competitive_entering">جاري الإنضمام...</string>
+    <string name="competitive_entering">جاري الانضمام...</string>
     <string name="x_searching_y_playing">%1$s يبحث · %2$s يلعب</string>
     <string name="x_searching">%d يبحث</string>
     <string name="x_playing">%d يلعب</string>
@@ -221,7 +221,7 @@
     <string name="none">None</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
     <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
-    <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
+    <string name="booster_stacks_base_xp">تُضاف إلى نقاط الخبرة الأساسية</string>
     <string name="booster_watch_ad">شاهد إعلاناً</string>
     <string name="booster_choose_boost">اختر تعزيز نقاط الخبرة الخاص بك</string>
     <string name="booster_active">نشط</string>
@@ -256,11 +256,11 @@
     <string name="history">السجل</string>
     <string name="voidstone_history">تاريخ الفويدستون</string>
     <string name="purchase_history">تاريخ المشتريات</string>
-    <string name="no_transactions_yet">لم يتم اجراء اي معاملات حتى الان</string>
+    <string name="no_transactions_yet">لم يتم إجراء أي معاملات حتى الآن</string>
     <string name="admin_reward">مكافئة المشرف</string>
     <string name="in_app_purchase">الشراء داخل التطبيق</string>
     <string name="voidstone_gift_received">استلام هدية فويدستون</string>
-    <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
+    <string name="voidstone_gift_send">إرسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">ترقية الخبرة الأساسية</string>
     <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
@@ -275,8 +275,8 @@
     <string name="profile_name_font_bought">فتح خط اسم الملف الشخصي</string>
     <string name="admin_deduction">خصم إداري</string>
     <string name="giveaway">جائزة السحب</string>
-    <string name="admin_reward_sent">تم ارسال مكافاة الادارة</string>
-    <string name="admin_deduction_sent">تم ارسال الخصم الإداري</string>
+    <string name="admin_reward_sent">تم إرسال مكافاة الإدارة</string>
+    <string name="admin_deduction_sent">تم إرسال الخصم الإداري</string>
     <string name="verify_reward">مكافئة توثيق</string>
     <string name="competitive_season_reward">مكافأة الموسم التنافسي</string>
     <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
@@ -290,7 +290,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">لا تتوفر إعلانات لك في الوقت الحالي. يُرجى المحاولة مرة أخرى لاحقًا.</string>
     <string name="ad_show_failed">فشل عرض الإعلان</string>
     <string name="ad_load_failed">فشل تحميل الإعلان</string>
     <string name="ad_rate_limited">لقد شاهدت الكثير من الإعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
@@ -496,7 +496,7 @@
     <string name="mod">مُدير</string>
     <string name="verified">موثق</string>
     <string name="youtube">يوتيوبر</string>
-    <string name="tiktok">TikTok</string>
+    <string name="tiktok">تيكتوكر</string>
     <string name="translator">مُترجم</string>
     <string name="internal_tester">مختبر داخلي</string>
     <string name="alpha_tester">مختبر نسخة ألفا</string>
@@ -524,7 +524,7 @@
     <!-- Clan -->
     <string name="clan_create">إنشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">ادخل إسم العشيرة (الحد الأقصى 14)</string>
+    <string name="clan_name_hint">أدخل اسم العشيرة (الحد الأقصى 14)</string>
     <string name="clan_tag">وسم العشيرة</string>
     <string name="clan_tag_hint">الوسم (1-4 أحرف)</string>
     <string name="clan_list">العشائر العامة</string>
@@ -539,7 +539,7 @@
     <string name="clan_members_count">%1$d / %2$d الأعضاء</string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
-    <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
+    <string name="clan_leave_confirm">هل أنت متأكد أنك تريد الخروج من العشيرة؟ </string>
     <string name="clan_owner_must_transfer">يجب نقل الملكية إلى عضو آخر قبل المغادرة.</string>
     <string name="clan_request_sent">تم إرسال طلب الانضمام.</string>
     <string name="clan_disband">حذف العشيرة</string>
@@ -952,19 +952,19 @@
     <!-- Custom Images -->
     <string name="custom_images">صورة مخصصة</string>
     <string name="profile_avatar">صورة الملف الشخصي</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_image_rules">المحتوى الممنوع صراحةً:\n\n- محتوى جنسي / غير لائق\n- عنف مروّع / مشاهد دموية\n- أسلحة\n- رموز الكراهية\n- خطاب الكراهية / التمييز\n- مخدرات\n- محتوى صادم/مقزز\n- شخصيات/شعارات محمية بحقوق الطبع والنشر\n- إشارات للكحول/التبغ\n- صور مرعبة/مخيفة</string>
     <string name="custom_image_upload">تحميل</string>
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_confirm_body">هل تريد تحميل هذه الصورة مقابل %1$s فويدستون؟</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_image_error_size">حجم صورتك %1$d كيلوبايت كبير جدًا (الحد الأقصى %2$d كيلوبايت)</string>
     <string name="custom_image_error_dimensions">صورتك %1$dx%2$d كبير جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
     <string name="custom_image_error_both">صورتك %1$dKB / %3$dx%4$d كبير جدًا (الحد الأقصى %2$dKB / %5$dx%6$d بكسل)</string>
     <string name="custom_image_compress_title">الصورة كبيرة جدًا - هل تريد ضغطها؟</string>
@@ -984,41 +984,41 @@
     <string name="report_avatar_message">هل تريد الإبلاغ عن الصورة الشخصية لـ %1$s؟</string>
     <string name="report_avatar_success">تم الإبلاغ عن الصورة الشخصية</string>
     <string name="report_avatar_failed">فشل الإبلاغ عن الصورة الشخصية</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="report_banner">الإبلاغ عن الغلاف</string>
+    <string name="report_banner_message">هل تريد الإبلاغ عن غلاف %1$s؟</string>
+    <string name="report_banner_success">تم الإبلاغ عن الغلاف</string>
+    <string name="report_banner_failed">فشل الإبلاغ عن الغلاف</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
-    <string name="custom_banner_upload_success">Banner sent for review</string>
-    <string name="custom_banner_selected">Banner selected</string>
-    <string name="custom_banner_deselected">Banner deselected</string>
-    <string name="custom_banner_upload_failed">Failed to upload banner</string>
-    <string name="custom_banner_read_error">Failed to read banner</string>
-    <string name="custom_banner_invalid_format">File must be an image</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
-    <string name="custom_banner_compress_accept">Use Compressed</string>
-    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_rules">المحتوى الممنوع صراحةً:\n\n- محتوى جنسي / غير لائق\n- عنف مروّع / مشاهد دموية\n- أسلحة\n- رموز الكراهية\n- خطاب الكراهية / التمييز\n- مخدرات\n- محتوى صادم/مقزز\n- شخصيات/شعارات محمية بحقوق الطبع والنشر\n- إشارات للكحول/التبغ\n- صور مرعبة/مخيفة</string>
+    <string name="custom_banner_upload">تحميل</string>
+    <string name="custom_banner_replace">استبدال</string>
+    <string name="custom_banner_deselect">إلغاء التحديد</string>
+    <string name="custom_banner_confirm_title">تحميل الغلاف</string>
+    <string name="custom_banner_confirm_body">هل تريد تحميل هذا الغلاف مقابل %1$s فويدستون؟</string>
+    <string name="custom_banner_upload_success">تم إرسال الغلاف للمراجعة</string>
+    <string name="custom_banner_selected">تم اختيار الغلاف</string>
+    <string name="custom_banner_deselected">تم إلغاء اختيار الغلاف</string>
+    <string name="custom_banner_upload_failed">فشل رفع الغلاف</string>
+    <string name="custom_banner_read_error">فشل في قراءة الغلاف</string>
+    <string name="custom_banner_invalid_format">يجب أن يكون الملف صورة</string>
+    <string name="custom_banner_error_size">حجم غلافك %1$d كيلوبايت كبير جدًا (الحد الأقصى %2$d كيلوبايت)</string>
+    <string name="custom_banner_error_dimensions">أبعاد غلافك %1$dx%2$d كبيرة جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
+    <string name="custom_banner_error_both">غلافك %1$d كيلوبايت / %3$dx%4$d كبير جدًا (الحد الأقصى %2$d كيلوبايت / %5$dx%6$d بكسل)</string>
+    <string name="custom_banner_compress_title">الغلاف كبير جدًا - هل تريد ضغطه؟</string>
+    <string name="custom_banner_compress_accept">استخدام النسخة المضغوطة</string>
+    <string name="custom_banner_compress_failed">تعذر ضغط الغلاف ليتناسب مع حد الحجم</string>
+    <string name="custom_banner_crop_title">اقتصاص الغلاف بنسبة 16:9</string>
     <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
-    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_processing">جارٍ المعالجة…</string>
+    <string name="custom_banner_bought">تحميل غلاف مخصص</string
+    <string name="custom_banner_refund">استرداد الغلاف المخصص</string>
+    <string name="custom_banner_slot">الغلاف %1$d</string>
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">استعادة الحساب</string>
-    <string name="recovery_info">يجب  أن يكون الجهاز متصلا بنفس شبكة الواي فاي، وإلا فقد تفشل عملية الاستعادة</string>
+    <string name="recovery_info">يجب أن يكون الجهاز متصلا بنفس شبكة الواي فاي، وإلا فقد تفشل عملية الاستعادة</string>
     <string name="recovery_continue">متابعة</string>
     <string name="recovery_enter_account_id">أدخل رقم حسابك</string>
     <string name="recovery_account_id_placeholder">رقم الحساب</string>
@@ -1027,8 +1027,8 @@
     <string name="recovery_new_email_placeholder">new@example.com</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_confirm_body">أنت على وشك تغيير البريد الإلكتروني لهذا الحساب إلى %1$s. ستسجّل الدخول بعد ذلك باستخدام حساب Google المطابق. لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="recovery_success_body">تم تغيير البريد الإلكتروني للحساب إلى %1$s. يُرجى تسجيل الدخول الآن باستخدام حساب Google الجديد.</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
@@ -1067,7 +1067,7 @@
     <string name="saved">تم الحفظ</string>
     <string name="saving">جاري الحفظ…</string>
     <string name="sent">مرسل</string>
-    <string name="send">ارسال</string>
+    <string name="send">إرسال</string>
     <string name="sending">إرسال…</string>
     <string name="buy">شراء</string>
     <string name="buying">جاري الشراء…</string>
@@ -1090,10 +1090,10 @@
     <string name="settings">الإعدادات</string>
     <string name="team">الفريق</string>
     <string name="game_menu">قائمة اللعبة</string>
-    <string name="color_picker">منتقي الالوان</string>
-    <string name="color_wheel">عجلة الالوان</string>
+    <string name="color_picker">منتقي الألوان</string>
+    <string name="color_wheel">عجلة الألوان</string>
     <string name="brightness">سطوع</string>
-    <string name="no_one">ﻻ احد</string>
+    <string name="no_one">ﻻ أحد</string>
     <string name="multiplayer">متعدد اللاعبين</string>
     <string name="loading">جاري التحميل…</string>
     <string name="room_type_local">محلي: %s</string>
@@ -1123,7 +1123,7 @@
     <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
-    <string name="invalid_selection">إختيار غير صالح!</string>
+    <string name="invalid_selection">اختيار غير صالح!</string>
     <string name="invalid_name">اسم غير صالح!</string>
     <string name="content_blocked">String contains blocked content</string>
     <string name="connecting">الاتصال%s</string>
@@ -1164,7 +1164,7 @@
     <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
     <string name="code_not_found">رمز غير صالح</string>
     <string name="code_expired">انتهت صلاحية الرمز</string>
-    <string name="code_already_redeemed">Code Already Claimed!</string>
+    <string name="code_already_redeemed">تم استخدام الرمز مسبقًا!</string>
     <string name="clan_owner_must_transfer_error">يجب نقل الملكية إلى عضو آخر قبل المغادرة.</string>
     <string name="mail_cannot_send_self">لا يمكنك إرسال رسالة إلى نفسك</string>
     <string name="clan_already_requested_other">تم تقديم طلب انضمام مسبقاً لهذه العشيرة</string>
